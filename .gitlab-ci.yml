@@ -6,6 +6,7 @@ variables:
   IMAGE_NAME: jasonleijdekker/portfolio
   IMAGE_TAG: latest
 
+
 build:
   stage: build
   image: docker:26
