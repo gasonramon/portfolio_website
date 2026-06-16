@@ -1,0 +1,6 @@
+services:
+  vue-project:
+    image: jasonleijdekker/portfolio:latest
+    ports:
+      - "80:80"
+    restart: unless-stopped

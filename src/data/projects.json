@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "tag": "Web App",
+    "title": "Book Webshop",
+    "description": "A school project e-commerce store for buying and browsing books.",
+    "overview": "A fully functional webshop built as a school project, allowing users to browse a catalogue of books, add them to a cart, and proceed through a checkout flow. Focused on clean UI and solid fundamentals of e-commerce UX.",
+    "features": [
+      "Book catalogue with search and filter",
+      "Shopping cart with quantity management",
+      "Checkout flow with order summary",
+      "Responsive layout for mobile and desktop"
+    ],
+    "stack": ["HTML", "CSS", "JavaScript", "Java","Spring Boot", "SQL"]
+  },
+  {
+    "id": "2",
+    "tag": "Interactive",
+    "title": "Greek Gods Timeline",
+    "description": "An interactive history timeline exploring the lineage and myths of the Greek gods.",
+    "overview": "A visually driven, interactive timeline that chronicles the Greek pantheon — from primordial deities to the Olympians. Users can scroll through eras, click on gods to read myths, and explore family relationships through a dynamic graph.",
+    "features": [
+      "Scrollable chronological timeline",
+      "Clickable god profiles with myth summaries",
+      "Family tree / relationship graph",
+      "Illustrated god avatars"
+    ],
+    "stack": ["Vue 3", "TypeScript", "SCSS"]
+  },
+  {
+    "id": "3",
+    "tag": "Full Stack",
+    "title": "Real-Time Chat App",
+    "description": "A real-time chat application with rooms, presence indicators, and instant messaging.",
+    "overview": "A WebSocket-powered chat application where users can create or join named rooms and exchange messages in real time. Includes live presence indicators showing who is currently online, message history, and a clean, minimal interface.",
+    "features": [
+      "Real-time messaging via WebSockets",
+      "Online presence indicators",
+      "Persistent message history",
+      "Username-based authentication"
+    ],
+    "stack": ["Angular", "TypeScript"]
+  },
+  {
+    "id": "4",
+    "tag": "Systems",
+    "title": "Ray Tracer in Rust",
+    "description": "A CPU ray tracer written from scratch in Rust, rendering scenes with reflections and shadows.",
+    "overview": "A physically based ray tracer built from the ground up in Rust, following core computer graphics principles. Renders 3D scenes with configurable lighting, materials, reflections, and soft shadows. Outputs high-resolution PNG images and leverages Rust's concurrency for multi-threaded rendering performance.",
+    "features": [
+      "Diffuse, metallic, and glass materials",
+      "Point lights with soft shadows",
+      "Recursive reflections and refractions"
+    ],
+    "stack": ["Rust", "Rayon", "image crate"]
+  }
+]
