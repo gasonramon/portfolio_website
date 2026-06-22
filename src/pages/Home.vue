@@ -14,8 +14,8 @@
         <p>
           Building automation systems,
           web applications, and gameplay
-          experiments with Vue, Python,
-          Docker, PostgreSQL, and Godot.
+          experiments with Rust, Java, Python,
+          Docker, PostgreSQL, and more.
         </p>
 
         <div class="actions">
