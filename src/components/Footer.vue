@@ -2,7 +2,7 @@
   <footer class="footer">
     <div class="container footer-inner">
       <div>
-        © 2026 Jason Leijdekker
+        Jason Leijdekker
       </div>
 
       <div class="footer-links">
