@@ -6,7 +6,7 @@
       </div>
 
       <div class="footer-links">
-        <a href="#">
+        <a href="https://github.com/gasonramon">
           GitHub
         </a>
 
