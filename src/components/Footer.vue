@@ -10,7 +10,7 @@
           GitHub
         </a>
 
-        <a href="#">
+        <a href="https://www.linkedin.com/in/jason-leijdekker-8a4871398/">
           LinkedIn
         </a>
       </div>
