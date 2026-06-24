@@ -4,14 +4,14 @@
       <h2>{{ title }}</h2>
       <p>{{ description }}</p>
     </RouterLink>
-    
+    <a
       v-if="link"
       :href="link"
       target="_blank"
       rel="noopener noreferrer"
       class="demo-link"
       @click.stop
-    <a>
+    >
       Live Demo →
     </a>
   </div>

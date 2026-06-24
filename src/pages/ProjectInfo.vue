@@ -21,6 +21,16 @@
         <div class="tech-stack">
           <span v-for="tech in project.stack" :key="tech" class="tech-pill">{{ tech }}</span>
         </div>
+
+        <a
+          v-if="project.link"
+          :href="project.link"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="demo-button"
+        >
+          View Live Demo →
+        </a>
       </section>
     </template>
 
@@ -89,7 +99,6 @@ const project = computed(() =>
   line-height: 1.7;
 }
 
-
 .detail-body h2 {
   font-size: 1.15rem;
   margin: 2rem 0 0.75rem;
@@ -119,6 +128,23 @@ const project = computed(() =>
   background: var(--color-surface, #f120);
   font-size: 0.85rem;
   font-weight: 500;
+}
+
+.demo-button {
+  display: inline-block;
+  margin-top: 2.5rem;
+  padding: 0.65rem 1.5rem;
+  border-radius: 8px;
+  background: var(--color-primary, #4f8ef7);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: opacity 0.2s ease;
+}
+
+.demo-button:hover {
+  opacity: 0.85;
 }
 
 .not-found {
