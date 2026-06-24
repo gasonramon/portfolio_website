@@ -40,7 +40,7 @@
       "Username-based authentication"
     ],
     "stack": ["Angular", "TypeScript"],
-    "link": "http://178.105.65.147/8081"
+    "link": "http://178.105.65.147:8081"
   },
   {
     "id": "4",
