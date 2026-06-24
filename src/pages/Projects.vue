@@ -12,6 +12,7 @@
           :id="project.id"
           :title="project.title"
           :description="project.description"
+          :link="project.link"
         />
       </div>
     </div>

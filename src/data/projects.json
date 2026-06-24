@@ -39,7 +39,8 @@
       "Persistent message history",
       "Username-based authentication"
     ],
-    "stack": ["Angular", "TypeScript"]
+    "stack": ["Angular", "TypeScript"],
+    "link": "http://178.105.65.147/8081"
   },
   {
     "id": "4",
