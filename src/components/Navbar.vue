@@ -2,7 +2,7 @@
   <nav class="nav">
     <div class="container nav-inner">
       <RouterLink to="/" class="logo">
-        jason.dev
+        jasonleijdekker.com
       </RouterLink>
 
       <div class="links">
