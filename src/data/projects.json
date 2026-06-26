@@ -12,7 +12,7 @@
       "Illustrated god avatars"
     ],
     "stack": ["Vue 3", "TypeScript", "SCSS"],
-    "link": "http://178.105.65.147:8082"
+    "link": "http://timeline.jasonleijdekker.com"
   },
   {
     "id": "2",
@@ -27,7 +27,7 @@
       "Username-based authentication"
     ],
     "stack": ["Angular", "TypeScript"],
-    "link": "http://178.105.65.147:8081"
+    "link": "http://chat.jasonleijdekker.com"
   },
   {
     "id": "3",
@@ -41,6 +41,6 @@
       "Recursive reflections and refractions"
     ],
     "stack": ["Rust", "Rayon", "image crate"],
-    "link": "http://178.105.65.147:3001"
+    "link": "http://raytracer.jasonleijdekker.com"
   }
 ]
